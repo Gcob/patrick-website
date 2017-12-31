@@ -44,8 +44,8 @@ Voici, en résumé, avec quoi le projet est construit:
 Ici vous trouverez tout se qu'il faut savoir sur les détailles techniques et la documentation
 concernant la structure développé pour ce projet.
 
-[Consulter le guide d'installation rapide ici](./installation.md). 
+[Consulter le guide d'installation rapide ici](./documentation/installation.md). 
 
-[Consulter la documentation backend ici](./backend.md)
+[Consulter la documentation backend ici](./documentation/backend.md)
 
-[Consulter la documentation frontend ici](./frontend.md)
+[Consulter la documentation frontend ici](./documentation/frontend.md)
